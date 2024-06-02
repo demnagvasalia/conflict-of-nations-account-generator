@@ -43,7 +43,7 @@ Follow these steps to get started with the Conflict of Nations Account Generator
 
 Please note that using this account generator might violate the terms of service of Conflict of Nations. According to some Polish game moderators, there is a possibility of legal action being taken against users of this tool. Use it at your own risk.
 
-Here are some screenshots of the tool in action:
+Here are some screenshots of the retarded moderation:
 
 ![Screenshot 1](https://cdn.discordapp.com/attachments/1233799750210551839/1246919200669175828/image.png?ex=665e2380&is=665cd200&hm=36698551597749de4593c9ee68397511095d1c68f1a87fab9219364a868e3691&)
 ![Screenshot 2](https://cdn.discordapp.com/attachments/1233799750210551839/1246919245418201139/image.png?ex=665e238a&is=665cd20a&hm=43513e67dbc858a52c1a4a00711da9cf3a634963850d4a55c131ec8013baf570&)
