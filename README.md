@@ -21,7 +21,7 @@ Follow these steps to get started with the Conflict of Nations Account Generator
 
 2. **Clone the repository**: Navigate to the location where you want to clone the repository and run the following command:
     ```bash
-    git clone https://github.com/demnagvasalia/conflict-of-nations-account-generator..git
+    git clone https://github.com/demnagvasalia/conflict-of-nations-account-generator.git
     ```
 
 3. **Navigate to the cloned repository**: Change your directory to the location of the cloned repository:
